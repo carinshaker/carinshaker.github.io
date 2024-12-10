@@ -7,7 +7,7 @@ I am a computer science major at CSUF and I plan on graduating in 2028.
 
 * Lab 5, part 1
 
-    I really enjoyed this lab because we practiced how to use if statements which is an important part of coding. I also really like this lab because we used the make tool which made things easier and faster because it does the work for you. I also liked this lab because it uses some things we have learned previously in other labs, which makes it easier to understand.
+    I really enjoyed this lab because we practiced how to use if statements which is an important part of coding. I also really like this lab because we used the make tool which made things easier and faster because it does the work for you. Another reason I liked this lab is because it uses some things we have learned previously in other labs, which makes it easier to understand.
 
 * Lab 7
 
