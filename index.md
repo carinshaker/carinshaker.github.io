@@ -15,4 +15,4 @@ I am a computer science major at CSUF and I plan on graduating in 2028.
 
 * Lab 10
 
-    I really like this lab because we had to work on it independently which felt different from the ones we had to groups. This lab felt more real, which I really enjoyed. Working with real county names and real population numbers was my favorite part about this lab because it was something new and we've never done it before.
+    I really like this lab because we had to work on it independently which felt different from the ones we had to groups. This lab felt more real because it used real data which made it more fun. Working with real county names and real population numbers was my favorite part about this lab because it was something new and we've never done it before.
